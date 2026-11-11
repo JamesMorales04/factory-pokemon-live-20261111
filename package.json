@@ -1,0 +1,13 @@
+{
+  "name": "factory-pokemon-live",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pokemon gallery: React frontend and Express backend",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
